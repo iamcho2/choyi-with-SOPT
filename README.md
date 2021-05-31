@@ -58,7 +58,7 @@
 | **활동 기간**                                                | 2019. 03. 23 ~ 2019. 07. 27                                  |
 | **프로젝트**                                                 |                                                              |
 | APPJAM Project<br/><img src="https://user-images.githubusercontent.com/28949235/120170266-c2ae6480-c23b-11eb-81c0-4d597af81ed2.png" alt="image" width=100px /> | Repository link: <br/>[artic](https://github.com/artic-development/artic_iOS2)<br />`Swift` |
-| Hackathon Project<br/><img src="https://user-images.githubusercontent.com/28949235/120171239-cd1d2e00-c23c-11eb-8066-240f3432f777.png" alt="image" width=100px /> | Repository link: <br>[Rolling For You](hhttps://github.com/sopkathon-ios/RollingForYou)<br />`Swift` |
+| Hackathon Project<br/><img src="https://user-images.githubusercontent.com/28949235/120171239-cd1d2e00-c23c-11eb-8066-240f3432f777.png" alt="image" width=100px /> | Repository link: <br> [Rolling For You](https://github.com/sopkathon-ios/RollingForYou) <br>`Swift` |
 | Assignment<br/><img src="https://user-images.githubusercontent.com/28949235/120172438-030ee200-c23e-11eb-801a-e852209e7082.png" alt="image" width=100px /> | Repository link: <br/>[Weekly assignments](https://github.com/iamcho2/SOPT-24th)<br />`Swift` |
 | **세미나 정리**                                              | Repository link: <br/>[seminar repository](https://github.com/iamcho2/SOPT-24th) |
 
