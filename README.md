@@ -2,8 +2,11 @@
 
 ### ⚓️ Anchors
 
-[🍎 28기: iOS](#28th-anchor)<a id="28th"></a>  [🍎 27기: iOS](#27th-anchor)<a id="27th"></a> [🍎 24기: iOS](#24th-anchor)<a id="24th"></a> [🎨 23기: Design](#23rd-anchor)<a id="23rd"></a> [🍎 22기: iOS](#22nd-anchor)<a id="22nd"></a>
-
+[🍎 28기: iOS](#28th-anchor)<a id="28th"></a>  
+[🍎 27기: iOS](#27th-anchor)<a id="27th"></a>  
+[🍎 24기: iOS](#24th-anchor)<a id="24th"></a>  
+[🎨 23기: Design](#23rd-anchor)<a id="23rd"></a>  
+[🍎 22기: iOS](#22nd-anchor)<a id="22nd"></a>
 
 
 ## 🥏 28th BE SOPT [](#28th)<a id="28th-anchor"></a>
@@ -21,7 +24,7 @@
 | Algorithm Study Group SOPTAC                                 | Repository link: <br/>[SOPTAC](https://github.com/iamcho2/why-am-i-crying/tree/main/contents/SOPTAC)<br />`C++` |
 | **세미나 정리**                                              | Repository link: <br/>[seminar repository](https://github.com/iamcho2/SOPT-28th) |
 
-
+<br><br><br>
 
 ## 🎱 27th ON SOPT [](#27th)<a id="27th-anchor"></a>
 
@@ -44,7 +47,7 @@
 | APPJAM **대상**   | <img src="https://user-images.githubusercontent.com/28949235/120168317-b0332b80-c239-11eb-99ee-a108fb793537.png" alt="image" width=600px /> |
 | SOPT-Term **3위** | <img src="https://user-images.githubusercontent.com/28949235/120165761-dc00e200-c236-11eb-994b-a8dcf4f8bc81.png" alt="image" width=600px /> |
 
-
+<br><br><br>
 
 ## 🚪 24th OPEN SOPT [](#24th)<a id="24th-anchor"></a>
 
@@ -63,7 +66,7 @@
 | ----------------- | ------------------------------------------------------------ |
 | APPJAM **인기상** | <img src="https://user-images.githubusercontent.com/28949235/120173254-d14a4b00-c23e-11eb-9d49-487e8fd1d8be.png" alt="image" width=600px /> |
 
-
+<br><br><br>
 
 ## 🔮 23th Do IT SOPT [](#23rd)<a id="23rd-anchor"></a>
 
@@ -87,6 +90,7 @@
 | ----------------- | ------------------------------------------------------------ |
 | APPJAM **우수상** | <img src="https://user-images.githubusercontent.com/28949235/120177176-17091280-c243-11eb-86d6-205c667904dc.png" alt="image" width=600px /> |
 
+<br><br><br>
 ## 🦋 22th inno SOPT [](#22nd)<a id="22nd-anchor"></a>
 
 <img src="https://user-images.githubusercontent.com/28949235/120161196-0308e500-c232-11eb-9fe0-36a740327087.png" alt="image" style="width: 100%" />
